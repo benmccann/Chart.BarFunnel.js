@@ -40,7 +40,7 @@ new Chart({
 
 ## Example
 ![BarFunnel Example Image]
-(https://github.com/chartjs/Chart.BarFunnel.js/blob/master/barfunnel.png)
+(https://raw.githubusercontent.com/chartjs/Chart.BarFunnel.js/master/barfunnel.png)
 
 ## License
 
